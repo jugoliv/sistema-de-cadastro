@@ -9,4 +9,5 @@ Para rodar esse projeto na sua máquina, por favor digite:
 node app.js
 ```
 
+"Falar é fácil, me mostre o código.” (Linus Torvalds) 
 :)
